@@ -13,11 +13,11 @@
 
 ## 👋 Hello! I am Robson Gonçalves
  <div>
- <h3><samp>Languages and Tools:</samp></h3>
   <a href="https://github.com/robsontissiano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robsontissiano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsontissiano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<h3><samp>Languages and Tools:</samp></h3>
 <div style="display: inline_block"><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img align="center" alt="Robson-Aws" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
