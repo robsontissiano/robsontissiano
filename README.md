@@ -15,11 +15,9 @@
   <a href="https://github.com/robsontissiano">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robsontissiano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsontissiano&layout=compact&langs_count=7&theme=dracula"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robsontissiano&count_private=true&hide=stars,issues,contribs&show_icons=true&hide_rank=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsontissiano&langs_count=10&layout=compact&card_width=265)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=robsontissiano&count_private=true&hide=stars,issues,contribs&show_icons=true&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsontissiano&langs_count=10&layout=compact&card_width=265)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3><samp>Languages and Tools:</samp></h3>
 <div style="display: inline_block"><br>
